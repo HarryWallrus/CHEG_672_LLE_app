@@ -1,3 +1,4 @@
 steamlit
 numpy
-matplotlib.pyplot
+matplotlib
+streamlit
